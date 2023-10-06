@@ -12,7 +12,8 @@ namespace ClassLibrary1
         upi,
         netbanking,
         depit,
-        credit
+        credit,
+        Gpay
     }
     public class order : Customer
 
